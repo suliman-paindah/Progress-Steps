@@ -1,1 +1,2 @@
 # Progress-Steps
+Easily navigate through registration steps with our Progress Steps visual! Designed with HTML, CSS, and JavaScript, our intuitive interface guides you through each registration stage, complete with previous and next buttons for seamless navigation. As you progress, the next button automatically disables upon reaching the final step, ensuring a smooth and hassle-free registration process. Simplify your registration journey with Progress Steps and experience a user-friendly way to complete your registration.
